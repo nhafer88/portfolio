@@ -1,4 +1,5 @@
-# Portfolio
-Created a website via GitHub displaying my work
+![desk_banner](desk_banner.png)
+# <center>*Portfolio* </center> 
 
-Portfolio link, [here](https://nhafer88.github.io/portfolio/)
+ Created a website via GitHub displaying my work
+Portfolio link, [Here](https://nhafer88.github.io/portfolio/)
